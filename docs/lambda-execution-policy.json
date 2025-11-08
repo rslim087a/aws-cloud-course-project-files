@@ -12,15 +12,6 @@
                 "dynamodb:Scan"
             ],
             "Resource": "arn:aws:dynamodb:*:*:table/CloudTaskTable"
-        },
-        {
-            "Effect": "Allow",
-            "Action": [
-                "logs:CreateLogGroup",
-                "logs:CreateLogStream",
-                "logs:PutLogEvents"
-            ],
-            "Resource": "arn:aws:logs:*:*:*"
         }
     ]
 }
