@@ -1,6 +1,6 @@
 # AWS Cloud Tutorial
 
-This repository contains the project files for the AWS Cloud Youtube course.
+This repository contains the project files for the AWS Cloud [Youtube](https://youtu.be/rO5C4LJ-iNE) and [Written](https://rayanslim.com/course/aws-cloud-course) course.
 
 ## JSONs for DynamoDB Test Items (Before Lambda)
 
